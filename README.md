@@ -2,7 +2,6 @@
 The chatbot will enable differently abled persons to do railway enquiries.</br>
 
 **CONTRIBUTORS**:<br/>
-
           1.Thejalekshmi B S</br>
           2.Sosa Thomas</br>
           3.Gowri Chandran S</br>
