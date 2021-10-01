@@ -17,6 +17,7 @@ PROBLEM STATEMENT:</br>
  PERSONA: Visually Impaired People</br>
  
  ARCHITECTURE:</br>
+ ![image_1.png](src/Architecture.jpeg)
      
 
 
